@@ -2,6 +2,11 @@
 name = "journey"
 version = "0.0.1"
 authors = ["Alejandro Socorro <alejandrosocorro@gmail.com>"]
+description = """
+journey is a command line tool to keep track of your journey and
+to help you get organized.
+"""
+repository = "https://github.com/alejandrosocorro/journey"
 license = "MIT"
 edition = "2018"
 
