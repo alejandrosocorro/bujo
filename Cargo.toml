@@ -1,6 +1,6 @@
 [package]
 name = "journey"
-version = "0.0.1"
+version = "0.0.2"
 authors = ["Alejandro Socorro <alejandrosocorro@gmail.com>"]
 description = """
 journey is a command line tool to keep track of your journey and
