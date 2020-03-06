@@ -10,7 +10,10 @@ repository = "https://github.com/alejandrosocorro/journey"
 license = "MIT"
 edition = "2018"
 
-# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+[[bin]]
+bench = false
+path = "src/bin/main.rs"
+name = "jny"
 
 [dependencies]
 structopt = "0.3.11"
